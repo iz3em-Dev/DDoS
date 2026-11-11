@@ -4,7 +4,7 @@
 =====================================================================
         M O T O R   D O S   -   M U L T I - C O R E   
 =====================================================================
-   By Richard Hill
+   By Z3
 =====================================================================
    POTENCIA Y CARACTERISTICAS:
     - Multiprocesamiento: reparte el ataque entre TODOS los nucleos

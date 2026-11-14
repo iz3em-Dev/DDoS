@@ -4,8 +4,8 @@
 =====================================================================
         M O T O R   D O S / D D O S   -   M U L T I - C O R E
 =====================================================================
-   DOS engine  : By Richard Hill
-   DDoS engine : Mecraa / Tr3ached  (integrado y reescrito)
+   DOS engine  : By Z3
+   DDoS engine : Z3  (integrado y reescrito)
 =====================================================================
    CAPAS:
     [DOS]  recon + auto-ajuste + flood keep-alive + slow hold

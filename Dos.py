@@ -173,7 +173,7 @@ def print_art(force=False):
     for l in art_lines:
         print(" " * left + C.BRED + l + C.RESET)
 
-    cred = ">>  By Richard Hill  <<"
+    cred = ">>  By Z3  <<"
     print(" " * max(0, (tw - len(cred)) // 2) + C.LRED + cred + C.RESET)
     subtitle = "MOTOR DOS  - (recon | asyncio | multiproceso)"
     print(" " * max(0, (tw - len(subtitle)) // 2) + C.DRED + subtitle + C.RESET)
@@ -915,4 +915,4 @@ if __name__ == "__main__":
         main()
     except KeyboardInterrupt:
         print()
-        p_ok("Cerrado. By Richard Hill")
+        p_ok("By Z3")
